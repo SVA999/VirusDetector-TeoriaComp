@@ -1,0 +1,16 @@
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.csproj.GenerateResource.cache
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.AssemblyInfoInputs.cache
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.AssemblyInfo.cs
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.csproj.CoreCompileInputs.cache
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\bin\Debug\net8.0-windows\VirusDetectorJS.exe
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\bin\Debug\net8.0-windows\VirusDetectorJS.deps.json
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\bin\Debug\net8.0-windows\VirusDetectorJS.runtimeconfig.json
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\bin\Debug\net8.0-windows\VirusDetectorJS.dll
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\bin\Debug\net8.0-windows\VirusDetectorJS.pdb
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.dll
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\refint\VirusDetectorJS.dll
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.pdb
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.genruntimeconfig.cache
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\ref\VirusDetectorJS.dll
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.FormVentana.resources

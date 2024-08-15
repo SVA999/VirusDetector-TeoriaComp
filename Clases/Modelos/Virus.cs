@@ -16,10 +16,13 @@ namespace VirusDetectorJS.Clases.Modelos
         public Virus(string nombre, byte[] secuencia)
         {
             this.nombre = nombre;
-            Secuencia = secuencia;
+            this.secuencia = secuencia;
         }
     
         //Accesor a la secuencia
-        public byte[] Secuencia { get => secuencia; set { } }
+        public byte[] Secuencia() { 
+                return secuencia;
+            
+        }
     }
 }

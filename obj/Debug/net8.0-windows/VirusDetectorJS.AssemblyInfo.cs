@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirusDetectorJS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc70873d3716fb6d239b385948a1e8543feea17c")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirusDetectorJS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirusDetectorJS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

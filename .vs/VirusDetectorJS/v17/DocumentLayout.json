@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\controladores\\analizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\controladores\\analizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\controladores\\adminarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\controladores\\adminarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\vistas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\modelos\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\modelos\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\virusdetectorjs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:virusdetectorjs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\clases\\controladores\\analizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:clases\\controladores\\analizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|d:\\programing\\proyectosupb\\virusdetectortc\\virusdetectorjs\\virusdetectorjs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493E7997-4A5A-487F-A391-9C9B4DAC9636}|VirusDetectorJS.csproj|solutionrelative:virusdetectorjs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Analizador.cs",
+              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\Analizador.cs",
+              "RelativeDocumentMoniker": "Clases\\Controladores\\Analizador.cs",
+              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\Analizador.cs",
+              "RelativeToolTip": "Clases\\Controladores\\Analizador.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwI8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:30:57.908Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,7 +65,7 @@
               "RelativeDocumentMoniker": "Clases\\Vistas\\Form1.cs",
               "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.cs",
               "RelativeToolTip": "Clases\\Vistas\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAewBQAAAAzAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T15:49:26.638Z",
               "EditorCaption": ""
@@ -60,19 +73,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Clases\\Vistas\\Form1.Designer.cs",
-              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.Designer.cs",
-              "RelativeToolTip": "Clases\\Vistas\\Form1.Designer.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAuwIAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T16:03:10.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.cs",
               "RelativeDocumentMoniker": "Clases\\Vistas\\Form1.cs",
@@ -84,19 +84,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Virus.cs",
+              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Modelos\\Virus.cs",
+              "RelativeDocumentMoniker": "Clases\\Modelos\\Virus.cs",
+              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Modelos\\Virus.cs",
+              "RelativeToolTip": "Clases\\Modelos\\Virus.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:30:43.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Clases\\Vistas\\Form1.Designer.cs",
+              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Vistas\\Form1.Designer.cs",
+              "RelativeToolTip": "Clases\\Vistas\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:03:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminArchivos.cs",
               "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\AdminArchivos.cs",
               "RelativeDocumentMoniker": "Clases\\Controladores\\AdminArchivos.cs",
               "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\AdminArchivos.cs",
               "RelativeToolTip": "Clases\\Controladores\\AdminArchivos.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwBYAAABPAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:31:12.663Z"
+              "WhenOpened": "2024-08-08T15:31:12.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -104,23 +131,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:31:37.462Z"
+              "WhenOpened": "2024-08-08T15:31:37.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Virus.cs",
-              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Modelos\\Virus.cs",
-              "RelativeDocumentMoniker": "Clases\\Modelos\\Virus.cs",
-              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Modelos\\Virus.cs",
-              "RelativeToolTip": "Clases\\Modelos\\Virus.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:30:43.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "VirusDetectorJS.csproj",
               "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\VirusDetectorJS.csproj",
               "RelativeDocumentMoniker": "VirusDetectorJS.csproj",
@@ -129,18 +145,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-08T15:29:05.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Analizador.cs",
-              "DocumentMoniker": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\Analizador.cs",
-              "RelativeDocumentMoniker": "Clases\\Controladores\\Analizador.cs",
-              "ToolTip": "D:\\Programing\\ProyectosUPB\\VirusDetectorTC\\VirusDetectorJS\\Clases\\Controladores\\Analizador.cs",
-              "RelativeToolTip": "Clases\\Controladores\\Analizador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T15:30:57.908Z"
             }
           ]
         }

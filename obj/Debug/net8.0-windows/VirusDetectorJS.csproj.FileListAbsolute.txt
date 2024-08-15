@@ -14,3 +14,4 @@ D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-wind
 D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.genruntimeconfig.cache
 D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\ref\VirusDetectorJS.dll
 D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.FormVentana.resources
+D:\Programing\ProyectosUPB\VirusDetectorTC\VirusDetectorJS\obj\Debug\net8.0-windows\VirusDetectorJS.sourcelink.json

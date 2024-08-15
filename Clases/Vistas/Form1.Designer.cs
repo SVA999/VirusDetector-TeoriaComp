@@ -43,7 +43,7 @@
             // 
             buttonBuscar.Location = new Point(594, 41);
             buttonBuscar.Name = "buttonBuscar";
-            buttonBuscar.Size = new Size(91, 23);
+            buttonBuscar.Size = new Size(195, 23);
             buttonBuscar.TabIndex = 0;
             buttonBuscar.Text = "Buscar";
             buttonBuscar.UseVisualStyleBackColor = true;
@@ -51,9 +51,9 @@
             // 
             // buttonAnalizar
             // 
-            buttonAnalizar.Location = new Point(594, 399);
+            buttonAnalizar.Location = new Point(594, 70);
             buttonAnalizar.Name = "buttonAnalizar";
-            buttonAnalizar.Size = new Size(194, 39);
+            buttonAnalizar.Size = new Size(195, 39);
             buttonAnalizar.TabIndex = 1;
             buttonAnalizar.Text = "Analizar";
             buttonAnalizar.UseVisualStyleBackColor = true;
@@ -79,7 +79,7 @@
             // 
             // textBoxBytes
             // 
-            textBoxBytes.Enabled = false;
+            textBoxBytes.ForeColor = SystemColors.ActiveCaptionText;
             textBoxBytes.Location = new Point(12, 71);
             textBoxBytes.Multiline = true;
             textBoxBytes.Name = "textBoxBytes";
@@ -91,7 +91,8 @@
             // 
             labelVirus.AutoSize = true;
             labelVirus.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelVirus.Location = new Point(594, 71);
+            labelVirus.ForeColor = SystemColors.ActiveCaptionText;
+            labelVirus.Location = new Point(594, 150);
             labelVirus.Name = "labelVirus";
             labelVirus.Size = new Size(46, 21);
             labelVirus.TabIndex = 5;
@@ -101,7 +102,8 @@
             // 
             labelVirusEncontrados.AutoSize = true;
             labelVirusEncontrados.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelVirusEncontrados.Location = new Point(594, 92);
+            labelVirusEncontrados.ForeColor = SystemColors.ActiveCaptionText;
+            labelVirusEncontrados.Location = new Point(594, 171);
             labelVirusEncontrados.Name = "labelVirusEncontrados";
             labelVirusEncontrados.Size = new Size(111, 21);
             labelVirusEncontrados.TabIndex = 6;
@@ -112,7 +114,8 @@
             // 
             labelEstadoFinal.AutoSize = true;
             labelEstadoFinal.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelEstadoFinal.Location = new Point(657, 366);
+            labelEstadoFinal.ForeColor = SystemColors.ActiveCaptionText;
+            labelEstadoFinal.Location = new Point(657, 112);
             labelEstadoFinal.Name = "labelEstadoFinal";
             labelEstadoFinal.Size = new Size(130, 21);
             labelEstadoFinal.TabIndex = 8;
@@ -123,7 +126,8 @@
             // 
             labelEstado.AutoSize = true;
             labelEstado.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelEstado.Location = new Point(594, 366);
+            labelEstado.ForeColor = SystemColors.ActiveCaptionText;
+            labelEstado.Location = new Point(592, 112);
             labelEstado.Name = "labelEstado";
             labelEstado.Size = new Size(59, 21);
             labelEstado.TabIndex = 7;
@@ -133,6 +137,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.InactiveCaption;
             ClientSize = new Size(800, 450);
             Controls.Add(labelEstadoFinal);
             Controls.Add(labelEstado);
@@ -145,6 +150,7 @@
             Controls.Add(buttonBuscar);
             Name = "FormVentana";
             Text = "DELTA Virus";
+            Load += FormVentana_Load;
             ResumeLayout(false);
             PerformLayout();
         }

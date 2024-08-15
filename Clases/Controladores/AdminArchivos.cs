@@ -20,8 +20,9 @@ namespace VirusDetectorJS.Clases.Controladores
             rutaArchivo = rutaArchivoSeleccionada;
         }
 
+
         //Metodo encargado de de leer los bytes del archivo a partir de la ruta
-        private byte[] LeerBytesArchivo() {
+        public byte[] LeerBytesArchivo() {
 
             try {
                 bytesArchivo = File.ReadAllBytes(rutaArchivo);
@@ -30,8 +31,6 @@ namespace VirusDetectorJS.Clases.Controladores
             catch(Exception e) {
                 throw new Exception("Error al obtener bytes del archivo");
             }
-
         }
-
     }
 }
